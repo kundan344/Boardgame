@@ -26,7 +26,7 @@ This web application displays lists of board games and their reviews. While anyo
 ## Features
 
 - Full-Stack Application
-- UI components created with Thymeleaf and styled with Twitter Bootstrap
+- UI components created with Thymeleaf and styled with Twitters Bootstrap
 - Authentication and authorization using Spring Security
   - Authentication by allowing the users to authenticate with a username and password
   - Authorization by granting different permissions based on the roles (non-members, users, and managers)
